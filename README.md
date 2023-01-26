@@ -11,11 +11,11 @@ I used flexbox to make it adaptable to various size screens form personal comput
 ## Usage
 
 ![laptop view](assets/Images/laptop.png)
-![iphone view](assets/images/iphone.png)
 
-## Credits
+Link
 
-This work was done solely by me.
+https://seanmcnallie.github.io/Sean-McNallie-Portfolio/
+
 
 ## License
 
